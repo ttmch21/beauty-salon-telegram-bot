@@ -55,9 +55,10 @@ An asynchronous Telegram bot for a beauty salon built with **Python**, **python-
 
 
 
+
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Welcome Screen
 
@@ -76,3 +77,4 @@ Users can browse services, make appointments, view their bookings, and contact t
 Users can select a convenient date and continue the appointment booking process.
 
 ![Booking Date Selection](screenshots/booking-date.png)
+
