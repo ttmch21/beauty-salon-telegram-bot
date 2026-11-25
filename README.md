@@ -54,21 +54,25 @@ An asynchronous Telegram bot for a beauty salon built with **Python**, **python-
 └── keyboards.py          # Reply and Inline keyboard builders
 
 
+
 ---
 
 ## 📸 Screenshots
 
 ### Welcome Screen
+
 The bot welcomes users and provides quick access to its main features.
 
 ![Welcome Screen](screenshots/welcome.png)
 
 ### Main Menu
+
 Users can browse services, make appointments, view their bookings, and contact the studio.
 
 ![Main Menu](screenshots/main-menu.png)
 
 ### Online Booking
+
 Users can select a convenient date and continue the appointment booking process.
 
 ![Booking Date Selection](screenshots/booking-date.png)
