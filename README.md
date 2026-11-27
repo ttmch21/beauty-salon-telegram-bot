@@ -53,7 +53,7 @@ An asynchronous Telegram bot for a beauty salon built with **Python**, **python-
 ├── database.py           # Async SQLite Database class, schema initialization, and queries
 └── keyboards.py          # Reply and Inline keyboard builders
 
-
+```
 
 
 ---
